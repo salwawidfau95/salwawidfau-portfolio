@@ -16,23 +16,3 @@
 
 </div>
 
-<br />
-
-### Demo Screenshot
-
-![Salwa Portfolio Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, make sure you have the following installed:
-
-* [Git](https://git-scm.com/downloads) on your operating system.
-
-### Run Locally
-
-To run the project locally:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/salwawidfau95/salwawidfau-portfolio.git
