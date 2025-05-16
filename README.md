@@ -1,54 +1,38 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/julia-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/julia-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/julia-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/wjqiFCTssTI?style=social)](https://youtu.be/wjqiFCTssTI)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/salwawidfau95/salwawidfau-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/salwawidfau95/salwawidfau-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/salwawidfau95/salwawidfau-portfolio?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/salwawidfautami?style=social)](https://twitter.com/intent/follow?screen_name=salwawidfautami)
 
   <br />
   <br />
 
-  <h2 align="center">Julia - Portfolio Website</h2>
+  <h2 align="center">Salwa Widfa Utami - Portfolio Website</h2>
 
-  A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  A fully responsive personal portfolio website. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/julia-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://salwawidfautami.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshot
 
-![Julia Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Salwa Portfolio Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before you begin, make sure you have the following installed:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads) on your operating system.
 
 ### Run Locally
 
-To run **Julia** locally, run this command on your git bash:
+To run the project locally:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/julia-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/julia-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+sudo git clone https://github.com/salwawidfau95/salwawidfau-portfolio.git
